@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cig\'Arrête</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="identifiant">Identifiant</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="s_enregistrer">S\'enregistrer</string>
+    <string name="verif_mot_de_passe">Verif Mot de passe</string>
+    <string name="date_de_naissance">Date de naissance</string>
+    <string name="email">Email</string>
+    <string name="valider">Valider</string>
+    <string name="partie_principale">Partie principale</string>
+    <string name="se_d_connecter">Se Déconnecter</string>
+    <string name="identifiant_utilisateur">Identifiant utilisateur :</string>
+</resources>

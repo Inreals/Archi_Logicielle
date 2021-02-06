@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841292257985",
+    "project_id": "cigarette-d2aef",
+    "storage_bucket": "cigarette-d2aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841292257985:android:f55d4d77c7350870f51240",
+        "android_client_info": {
+          "package_name": "android.exemple.com.cig_arrete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841292257985-u0tvf4r1ddugqomt0575ounemumnahl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBPryLtPUAwDIX03fRhW7hwpCyTQSHnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841292257985-u0tvf4r1ddugqomt0575ounemumnahl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
